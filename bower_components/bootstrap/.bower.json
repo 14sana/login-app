@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap",
+  "_source": "nexus+http://dev-nexus-l01:8081/nexus/repository/bower-group-ing/bootstrap",
+  "_target": "^v4.1.3",
+  "_release": "v4.1.3",
+  "version": "v4.1.3",
+  "_originalSource": "bootstrap",
+  "_direct": true
+}

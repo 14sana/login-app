@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "v1.6.10",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "_source": "nexus+http://dev-nexus-l01:8081/nexus/repository/bower-group-ing/angular",
+  "_target": "1.6.10",
+  "_release": "v1.6.10",
+  "_originalSource": "angular"
+}
