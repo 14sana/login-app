@@ -9,7 +9,8 @@ module.exports = function(grunt) {
                 // includes files within path
                 { src: ['bower_components/bootstrap/**'], dest: 'src/lib/' },
                 { src: ['bower_components/angular/**'], dest: 'src/lib/' },
-                { src: ['bower_components/jquery/**'], dest: 'src/lib/' }
+                { src: ['bower_components/jquery/**'], dest: 'src/lib/' },
+                { src: ['bower_components/angular-route/**'], dest: 'src/lib/' }
             ],
         },
     }
